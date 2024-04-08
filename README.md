@@ -36,22 +36,6 @@ then we took a look on any inconstanciy related to catagorical information final
 #### performes Metrics result 
 ![sample image](performsmetrics.png)
 > we tested the model using random forest where the model shows a noticebale underfit 
-## Model
-
-Describe your final model
-
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem 
-
-## Recommendations:
-
-More of your own text here
-
-
-## Limitations & Next Steps
-
-More of your own text here
 
 
 ### For further information
