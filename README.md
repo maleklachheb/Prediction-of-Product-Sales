@@ -31,7 +31,6 @@ then we took a look on any inconstanciy related to catagorical information final
 #### Data representation
 ![sample image](data_presentation.png)
 
-> here we can see how all columns are well traited 
 
 #### performes Metrics result 
 ![sample image](performsmetrics.png)
