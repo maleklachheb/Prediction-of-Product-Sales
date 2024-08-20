@@ -25,7 +25,7 @@ cleaning data by taking care of missing value
 then we took a look on any inconstanciy related to catagorical information finally we eliminate all the duplication 
 - 
 
-### Here are examples of how to embed images from your sub-folder
+
 
 
 #### Data representation
