@@ -1,5 +1,4 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Prediction of product sales
 
 **Author**: Malek lachheb
 
